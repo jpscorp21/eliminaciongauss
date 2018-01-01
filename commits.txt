@@ -1,0 +1,11 @@
+commit 2427e81823bff43dea0b77e9ca6c2535b793afaa
+Author: Jean <jpscorp21@gmail.com>
+Date:   Mon Jan 1 10:06:25 2018 -0300
+
+    Borramos archivos innecesarios
+
+commit 83514888445559ac846f213e5dfecdb9e8eaf075
+Author: Jean <jpscorp21@gmail.com>
+Date:   Mon Jan 1 10:02:33 2018 -0300
+
+    Primera Version
