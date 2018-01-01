@@ -1,0 +1,21 @@
+body {
+    background-color: brown;
+    color: white;
+}
+#formulario {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+#formulario form{
+    padding: 10px;    
+}
+
+#formulario input{
+    color: black;    
+}
+
+#formulario .btn {
+    margin-top: 10px;
+}
